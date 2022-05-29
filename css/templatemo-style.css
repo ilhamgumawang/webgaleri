@@ -147,11 +147,13 @@ https://templatemo.com/tm-556-catalog-z
   background-image: url("../img/filePhotos/bin.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+  background-position-x: center;
   background-position-y: center;
 }
 .container-login form {
   text-align: center;
-  line-height: 899px;
+  line-height: 1060px;
 }
 
 p {

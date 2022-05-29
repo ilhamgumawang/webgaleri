@@ -144,7 +144,7 @@ https://templatemo.com/tm-556-catalog-z
 
 .container-login {
   height: 1060px;
-  background-image: url("../img/bin.jpg");
+  background-image: url("../img/filePhotos/bin.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: center;
@@ -616,7 +616,7 @@ select:not([multiple]) {
   -moz-appearance: none;
   background-position: right 15px center;
   background-repeat: no-repeat;
-  background-image: url(../img/select-arrow.png);
+  background-image: url(../img/filePhotos/select-arrow.png);
   padding: 14px 20px;
   padding-right: 20px;
   color: #666;
